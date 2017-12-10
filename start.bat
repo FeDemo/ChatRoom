@@ -4,4 +4,4 @@ mshta vbscript:createobject("wscript.shell").run("""%~nx0"" h",0)(window.close)&
 :begin
 REM
 cd bin
-java socketDemo.ChatRoom %在这里输入名字,记得删除百分号%
+java socketDemo.ChatRoom username%淇敼username涓虹敤鎴峰悕%
